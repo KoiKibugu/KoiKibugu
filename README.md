@@ -5,29 +5,36 @@ I am a **Data Analyst** and **Networking Expert** passionate about **analyzing d
 
 ---
 
-## 🚀 Tech Stack
-### 🔹 Languages & Frameworks
-- **TypeScript** | **JavaScript** | **Python** | **Dart** | **Java** | **Rust**
-- **React** | **Flutter** | **Node.js** | **Next.js** | **Vue.js** | **Django**
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ☁️ Databases & Cloud
-- **MongoDB** | **PostgreSQL** | **MySQL** | **Firebase** | **AWS** | **Supabase**
+### 🗄️ Database Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔧 Tools & Other Technologies
-- **Docker** | **Git** | **GraphQL** | **Figma** | **Kubernetes** | **Redux**
+### 📊 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Insight BI](https://img.shields.io/badge/Insight%20BI-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
----
+### 🖥️ Microsoft Office Suite
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-## 🎯 Skills & Expertise
-- **Web Development:** HTML, CSS, JavaScript, PHP
-- **Database Management:** MySQL, Oracle
-- **Data Analytics:** Power BI, SQL Developer, Insight BI
-- **Networking:** LAN/WAN Design, Cisco & Huawei Configurations, Troubleshooting
-- **Cybersecurity:** Data Protection, Impact Assessments, Compliance Monitoring
-- **Technical Writing & Research:** Policy Drafting, Documentation, Report Writing
-- **Mathematical Modeling & Analysis:** Calculus, Linear Algebra, Statistics
+### 📡 Network Support & Administration
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 
----
+### 🧮 Mathematics & Software
+✔️ Calculus  
+✔️ Mathematical Software  
+✔️ Network Troubleshooting  
+✔️ Router & Switch Configuration  
 
 ## 💼 Work Experience
 ### 📌 **Networking Officer | Jan 2024 - Present**
