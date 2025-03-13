@@ -70,8 +70,8 @@ I am a **Data Analyst** and **Networking Expert** passionate about **analyzing d
 ## 📞 Contact Me
 📧 **Email:** [mercywkibugu@gmail.com](mailto:mercywkibugu@gmail.com)  
 📱 **Phone:** +254 758 149 705  
-🔗 **LinkedIn:** [www.linkedin.com/in/mercy-kibugu-78aa262aa](#)  
-🖥️ **Portfolio:** [Coming Soon!]
+🔗 **LinkedIn:** [www.linkedin.com/in/mercy-kibugu-78aa262aa]  
+🖥️ **Portfolio:** [https://koikibugu.netlify.app]
 
 ---
 
