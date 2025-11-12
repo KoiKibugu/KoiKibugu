@@ -37,7 +37,13 @@ I am a **Data Analyst** and **Networking Expert** passionate about **analyzing d
 ✔️ Router & Switch Configuration  
 
 ## 💼 Work Experience
-### 📌 **Networking Officer | Jan 2024 - Present**
+### 📌 **web developer & IT support | Nov2025 -Present **
+- IT support for all Tech needs.
+- Web and system design**
+- Supervised network **installations and troubleshooting.**
+
+
+### 📌 **Networking Officer | Jan 2024 - Dec 2024**
 - Designed and implemented **LAN networks** for organizations.
 - Conducted **network quality assurance** and ensured optimal **deployment of routers and switches.**
 - Supervised network **installations and troubleshooting.**
